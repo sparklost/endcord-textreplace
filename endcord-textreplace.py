@@ -6,8 +6,8 @@ import re
 from endcord import peripherals, utils
 
 EXT_NAME = "Textreplace"
-EXT_VERSION = "0.1.0"
-EXT_ENDCORD_VERSION = "1.5.0"
+EXT_VERSION = "0.1.1"
+EXT_ENDCORD_VERSION = "1.6.0"
 EXT_DESCRIPTION = "An extension that replaces message text with extended regex before its sent"
 EXT_SOURCE = "https://github.com/sparklost/endcord-textreplace"
 logger = logging.getLogger(__name__)
